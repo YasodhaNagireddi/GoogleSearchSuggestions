@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.suggestionitem-container {
+  display: flex;
+  justify-content: space-between;
+}
+.suggestion-item-text {
+  font-family: 'Roboto';
+}
+.suggestion-del-btn {
+  border: 0;
+  background: none;
+}
+.suggestion-arrow {
+  height: 20px;
+}
